@@ -6,12 +6,6 @@
 
 # v2.0.4 (September 2025)
 
-- Added new boss mettric `Shellbane Gryphon` `(shellbane_gryphon)`
-
----
-
-# v2.0.4 (September 2025)
-
 - Added missing `Country` enum values.
 
 ---
